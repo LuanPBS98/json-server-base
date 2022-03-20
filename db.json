@@ -1,11 +1,50 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "luan@gmail.com",
+      "password": "$2a$10$XrLzA.3yZfNxf4z3IWQScuS4w6DIF76gjtSctJys2FzeQilyvN/hW",
+      "name": "luan",
+      "age": 23,
       "id": 1
+    }
+  ],
+  "cars": [
+    {
+      "car": "horus",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "car": "golf",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "car": "crossfox",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "car": "civic",
+      "userId": 1,
+      "id": 4
+    }
+  ],
+  "motorcycles": [
+    {
+      "motorcycle": "xre",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "car": "yamaha 125",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "motorcycle": "yamaha 125",
+      "userId": 1,
+      "id": 3
     }
   ]
 }
