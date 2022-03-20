@@ -1,6 +1,6 @@
 # Luan-veicules
 
-url base:gdfgdfgfd
+url base: ``https://luan-veicules.herokuapp.com/``
 
 # Rotas que não precisam de autenticação
 
